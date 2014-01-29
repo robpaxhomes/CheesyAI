@@ -1,0 +1,4 @@
+CheesyAI
+========
+
+First collaborative project.
