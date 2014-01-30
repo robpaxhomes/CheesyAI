@@ -17,7 +17,7 @@ public class ProcessInput implements IProcessInput {
 	@Override
 	public String processStringInput(String strToProcess) {
 		// TODO Auto-generated method stub
-		return null;
+		return new String("Jamie has not yet implemented...");
 	}
 
 }
